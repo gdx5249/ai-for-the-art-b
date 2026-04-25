@@ -24,7 +24,6 @@ Image generation is **editorial** work: choosing scenes to recreate, writing pro
 | `ai_generated/` | AI-generated images (DALL-E 3 / Flux via Pollinations.ai) |
 | `original_scans/` | 9 original pamphlet scan JPEGs (covers, illustrations, advertisements) |
 | `5ee3a4397e23f1f6dca042d5e7893ca9.mp4` | Supporting video material |
-| `Evaluation_Report_Free_Kicks.docx` | Evaluation report (submitted separately on Moodle) |
 
 ---
 
