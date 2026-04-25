@@ -1,6 +1,6 @@
 # Free Kicks at Football (1882) — Human–AI Engagement Gallery
 
-**AI for the Arts and Humanities (B) | University of Glasgow | 2025–26**
+**AI for the Arts and Humanities (B) | University of Glasgow | 2781431**
 
 ---
 
